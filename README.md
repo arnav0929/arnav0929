@@ -10,6 +10,7 @@ I am a full stack Web Developer more interested in backend development. Along wi
 💬 Ask me anything, I will be more than happy to help :D
 <h3>Summary</h3>
 
+  <img src = "https://github-readme-stats.vercel.app/api?username=arnav0929&show_icons=true&theme=dark" width = 500>
 
 [![](https://raw.githubusercontent.com/arnav0929/arnav0929/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/arnav0929/arnav0929/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/arnav0929/arnav0929/master/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
