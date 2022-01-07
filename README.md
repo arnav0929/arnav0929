@@ -17,7 +17,8 @@ I am a full stack Web Developer more interested in backend development. Along wi
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishikagupta2468&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arnav0929&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085)](https://git.io/streak-stats)
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=jashan20&theme=dark&hide_border=true" width = 500>
 
 <h2>🛠Tech Stack</h2>
 
