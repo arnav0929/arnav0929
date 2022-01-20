@@ -40,7 +40,5 @@ Frameworks, Platforms and Libraries
 <a href="https://www.codechef.com/users/arnav0929" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aarchishya" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/arnav0929" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arnav0929" height="30" width="40" /></a>
 <a href="mailto:arnav0929@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/39955420/147611479-36ad6cd0-3b53-4d46-8035-0bd940e01a57.png" alt="arnav0929" height="30" width="40" /></a>
-
- <img src="https://user-images.githubusercontent.com/39955420/147611479-36ad6cd0-3b53-4d46-8035-0bd940e01a57.png" height="48" width="48">(mailto:arnav0929@gmail.com)
 </p>
 
