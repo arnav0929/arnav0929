@@ -4,7 +4,7 @@
 
 <h2>About me</h2>
 
-I am a third year undergrad, currently pursuing my Bachelor's degree in Computer Science from Thapar Institute of Engineering & Technology, Patiala.
+I am a final year undergrad, currently pursuing my Bachelor's degree in Computer Science from Thapar Institute of Engineering & Technology, Patiala.
 
 I am a full stack Web Developer more interested in backend development. Along with Software Development, I'm also interested in Competitive Programming and have maintained 4⭐ (Rating-1844) on Codechef and 5⭐ on HackerRank. I am a multi tasker and I constantly like to be engage in various activities. I am passionate about exploring new skills every day.  
 💬 Ask me anything, I will be more than happy to help :D
