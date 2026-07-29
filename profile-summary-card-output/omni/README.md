@@ -15,6 +15,16 @@
 ### Each card usage
 ---
 
+![](./0-profile-details.svg)
+
+```
+![](https://raw.githubusercontent.com/arnav0929/arnav0929/master/profile-summary-card-output/omni/0-profile-details.svg)
+```
+
+    
+
+---
+
 ![](./1-repos-per-language.svg)
 
 ```
@@ -29,6 +39,16 @@
 
 ```
 ![](https://raw.githubusercontent.com/arnav0929/arnav0929/master/profile-summary-card-output/omni/2-most-commit-language.svg)
+```
+
+    
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/arnav0929/arnav0929/master/profile-summary-card-output/omni/3-stats.svg)
 ```
 
     
